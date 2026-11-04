@@ -58,4 +58,8 @@ public/images/           ← self-hosted photography (Unsplash License)
 | Designers A–Z index with search | Legal and policy pages |
 
 ## Imagery
+All photography follows a strict modest-fashion standard: covered shoulders, arms past the elbow, legs below the knee, no low necklines, sheer or fitted styling. Accessories, bags, shoes and jewellery are shown as product-only shots.
+
+Model photography (Unsplash License): Marian Oleksyn (hero), amin naderloei (campaign), Brunxs, Laura Chouette, David Todd McCarty, Nassim Boughazi, Margo Evardson, Brynden, Esra Korkmaz.
+
 Photographs are from [Unsplash](https://unsplash.com) under the Unsplash License, self-hosted for speed. Product images are illustrative and do not depict the named designers’ actual products. Designer names are used for illustration only and imply no affiliation.

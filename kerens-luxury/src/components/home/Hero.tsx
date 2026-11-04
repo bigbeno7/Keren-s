@@ -26,7 +26,7 @@ export function Hero() {
 
   return (
     <section ref={ref} className="relative h-[100svh] min-h-[620px] overflow-hidden bg-ink text-ivory" aria-label="קמפיין פתיחה">
-      <motion.div style={{ y }} className="absolute inset-0">
+      <motion.div style={{ y }} className="absolute inset-x-0 -top-[24%] bottom-0 md:top-0">
         <motion.div
           className="absolute inset-0"
           initial={{ scale: 1.14, opacity: 0.4 }}
@@ -34,12 +34,12 @@ export function Hero() {
           transition={{ duration: 2.8, ease }}
         >
           <Image
-            src="/images/hero-golden.jpg"
-            alt="דמות בחולצת משי בגוון שנהב, באור שקיעה זהוב ליד קיר אבן"
+            src="/images/hero-atelier.jpg"
+            alt="אישה בסוודר גולף שחור ומעיל שירלינג בגוון שמנת, מול דלתות עץ עתיקות"
             fill
             priority
             sizes="100vw"
-            className="grade object-cover object-[50%_35%] md:object-[50%_12%]"
+            className="grade object-cover object-[50%_40%] md:object-[50%_56%]"
           />
         </motion.div>
       </motion.div>

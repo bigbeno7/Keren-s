@@ -231,7 +231,7 @@ export function Campaign() {
   return (
     <section ref={ref} className="relative h-[92svh] min-h-[560px] overflow-hidden bg-ink text-ivory" aria-label="קמפיין">
       <motion.div style={{ y }} className="absolute -inset-y-[14%] inset-x-0">
-        <Image src="/images/campaign-arcade.jpg" alt="דמות במעיל ורוד עתיק בקולונדה של אבן" fill sizes="100vw" className="grade object-cover object-[50%_40%]" />
+        <Image src="/images/campaign-street.jpg" alt="אישה במעיל צמר כהה וצעיף ארוך ברחוב בשעת ערב" fill sizes="100vw" className="grade object-cover object-[50%_25%]" />
       </motion.div>
       <div className="absolute inset-0 bg-ink/40" />
       <div className="grain absolute inset-0" />
